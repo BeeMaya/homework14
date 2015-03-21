@@ -10,11 +10,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "HomeSingleViewApp/ViewController.m"
-            timestampString = "448631142.966198"
+            timestampString = "448634273.663107"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "37"
-            endingLineNumber = "37"
+            startingLineNumber = "48"
+            endingLineNumber = "48"
             landmarkName = "-OnSwitchAvailableButtons:"
             landmarkType = "5">
          </BreakpointContent>
